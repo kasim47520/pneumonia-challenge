@@ -209,11 +209,4 @@ See `requirements.txt` for full dependency list.
 
 ---
 
-## 📬 Contact
 
-Submission for the Postdoctoral Research Fellow position at:  
-**AlfaisalX: Cognitive Robotics and Autonomous Agents**  
-**MedX Research Unit, Alfaisal University, Riyadh, Saudi Arabia**
-
-Prof. Anis Koubaa: akoubaa@alfaisal.edu  
-Dr. Mohamed Bahloul: mbahloul@alfaisal.edu
